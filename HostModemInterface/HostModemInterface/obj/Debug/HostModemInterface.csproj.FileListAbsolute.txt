@@ -1,0 +1,43 @@
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\bin\Debug\HostModemInterface.exe.config
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\bin\Debug\HostModemInterface.exe
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\bin\Debug\HostModemInterface.pdb
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.csprojResolveAssemblyReference.cache
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\obj\Debug\MainWindow.g.cs
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\obj\Debug\App.g.cs
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface_MarkupCompile.cache
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface_MarkupCompile.lref
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\obj\Debug\MainWindow.baml
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.g.resources
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.Properties.Resources.resources
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.csproj.GenerateResource.cache
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.csproj.CoreCompileInputs.cache
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.exe
+G:\Adam\Programowanie\Visual Studio Projects\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.pdb
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\bin\Debug\HostModemInterface.exe.config
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\bin\Debug\HostModemInterface.exe
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\bin\Debug\HostModemInterface.pdb
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.csprojResolveAssemblyReference.cache
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\obj\Debug\MainWindow.g.cs
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\obj\Debug\App.g.cs
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface_MarkupCompile.cache
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface_MarkupCompile.lref
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\obj\Debug\MainWindow.baml
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.g.resources
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.Properties.Resources.resources
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.csproj.GenerateResource.Cache
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.exe
+Y:\drive-download-20190129T154855Z-001\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.pdb
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\bin\Debug\HostModemInterface.exe.config
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\bin\Debug\HostModemInterface.exe
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\bin\Debug\HostModemInterface.pdb
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.csprojResolveAssemblyReference.cache
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\obj\Debug\MainWindow.g.cs
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\obj\Debug\App.g.cs
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface_MarkupCompile.cache
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface_MarkupCompile.lref
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\obj\Debug\MainWindow.baml
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.g.resources
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.Properties.Resources.resources
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.csproj.GenerateResource.Cache
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.exe
+Y:\HostModemInterface\HostModemInterface\HostModemInterface\obj\Debug\HostModemInterface.pdb
